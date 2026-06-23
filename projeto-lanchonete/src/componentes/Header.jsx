@@ -1,14 +1,12 @@
-function Header({titulo,subtitulo}){
-    return(
- <> 
+import'./Header.css'
+
+function Header({ titulo, subtitulo }) {
+    return (
+      <div className= "titulo">
         <h1>{titulo}</h1>
         <h2>{subtitulo}</h2>
- </>
-    )
-   
-
-
-
-}
-
-export default Header
+      </div>
+    );
+  }
+  
+  export default Header;
