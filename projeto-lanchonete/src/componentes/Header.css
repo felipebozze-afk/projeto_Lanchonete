@@ -1,6 +1,16 @@
-.titulo{
-    background-color:red}
+.titulo {
+  background-color: red;
+  padding: 20px;
+  text-align: center;
+  border-radius: 15px;
+  width: 70%;
+  margin: 0 auto;
+}
 
-.titulo h1,h2{
-    color:blue;
+.titulo h1 {
+  color: white;
+}
+
+.titulo h2 {
+  color: white;
 }
