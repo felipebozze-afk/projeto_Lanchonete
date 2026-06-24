@@ -5,7 +5,7 @@ function Login() {
     <div className="login">
       <h2>Login</h2>
       <div className="container">
-        <input type="text" placeholder="Usuario ou e-mail" />
+        <input type="text" placeholder="Usuario" />
         <input type="password" placeholder="Senha" />
         <button>Entrar</button>
       </div>
